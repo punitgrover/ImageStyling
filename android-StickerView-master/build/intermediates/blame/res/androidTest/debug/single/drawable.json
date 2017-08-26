@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\code\\ImageStyling\\android-StickerView-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zoominout.png",
+        "source": "E:\\code\\ImageStyling\\android-StickerView-master\\build\\intermediates\\bundles\\debug\\res\\drawable\\zoominout.png"
+    },
+    {
+        "merged": "E:\\code\\ImageStyling\\android-StickerView-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\remove.png",
+        "source": "E:\\code\\ImageStyling\\android-StickerView-master\\build\\intermediates\\bundles\\debug\\res\\drawable\\remove.png"
+    },
+    {
+        "merged": "E:\\code\\ImageStyling\\android-StickerView-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\flip.png",
+        "source": "E:\\code\\ImageStyling\\android-StickerView-master\\build\\intermediates\\bundles\\debug\\res\\drawable\\flip.png"
+    }
+]

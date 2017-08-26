@@ -1,0 +1,1 @@
+include ':app', ':android-StickerView-master', ':Gpu-Image'
